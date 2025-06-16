@@ -32,7 +32,7 @@
     },
     "node-red": {
         "nodes": {
-            "fastcsv": "node/fastcsv.js"
+            "fastcsv": "nodes/fastcsv.js"
         }
     }
 }
